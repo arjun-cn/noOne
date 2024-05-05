@@ -6,7 +6,7 @@
 Skills:
 Angular | ReactJs | Ruby on Rails | Ionic | NativeScript | Xamarin | Firebase | .Net | Spring Boot | SQL Express | PostgreSQL | SqLite | Jenkins | Docker | Jirra | GitHub | GitLab | Bitbucket | Newrelic | Splunk | Fortify |
 
-- 🔭 Build a tools to help job seekers land a position.
+- 🔭 Built a tools to help job seekers land a position.
     Check it out: https://play.google.com/store/apps/details?id=com.recurcseians.Vazha  
 
 
